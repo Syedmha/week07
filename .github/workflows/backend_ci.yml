@@ -145,4 +145,4 @@ jobs:
       run: az logout
       if: always()
 
-#Trigger Action
+#Trigger Action - 1
